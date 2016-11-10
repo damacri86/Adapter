@@ -25,7 +25,7 @@ struct WebShooter {
 a:
 
 ```swift
-struct SuperWebShooter: WebShootherFeatures {
+struct SuperWebShooter {
 
     func slingWebShoot() -> Bool
 
